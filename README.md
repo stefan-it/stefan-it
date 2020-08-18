@@ -14,7 +14,7 @@ Latest news of new language models, PRs and many more!
 
 * 18.08.2020: French BERT model, trained on Historic newspapers from Europeana:
   find the model [here](https://huggingface.co/dbmdz/bert-base-french-europeana-cased)
-  and the corresponding repository [here](https://github.com/stefan-it/europeana-bert)
+  and the corresponding repository [here](https://github.com/stefan-it/europeana-bert).
 
 ### 📃 Publications
 
