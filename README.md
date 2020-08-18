@@ -2,11 +2,11 @@
 
 ### 👋 Hi there
 
-I'm currently working on the awesome [Flair](https://github.com/flairNLP/flair)
-library and love contributing to [🤗 Transformers](https://github.com/huggingface/transformers).
-
 I'm working at [Bavarian State Library](https://github.com/dbmdz) 📚 now and please
 visit, watch and star our [pre-trained language models repo](https://github.com/dbmdz/berts)!
+
+I'm currently working on the awesome [Flair](https://github.com/flairNLP/flair)
+library and love contributing to [🤗 Transformers](https://github.com/huggingface/transformers).
 
 ### 📰 Latest news
 
