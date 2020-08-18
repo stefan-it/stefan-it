@@ -21,4 +21,4 @@ Latest news of new language models, PRs and many more!
 Please open an issue in the corresponding repository or tag me (@stefan-it) in
 issues/prs/commits on GitHub :)
 
-* 🤗 [Discussion forum](https://discuss.huggingface.co/u/stefan-it)
+You can also find me on the 🤗 [Discussion forum](https://discuss.huggingface.co/u/stefan-it).
