@@ -1,4 +1,4 @@
-[![Header](profile_header.jpg "Header")](https://schweter.ml/)
+[![Header](https://raw.githubusercontent.com/stefan-it/stefan-it/master/profile_header.jpg "Header")](https://schweter.ml/)
 
 ### 👋 Hi there
 
