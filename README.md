@@ -18,6 +18,8 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Publications
 
+* Stefan Schweter and Luisa März. Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German. Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020). To appear.
+
 * Stefan Schweter and Sajawel Ahmed. [Deep-EOS: General-Purpose Neural Networks for Sentence Boundary Detection](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_41.pdf). In Proceedings of the 15th Conference on Natural Language Processing (KONVENS 2019).
 
 * Alan Akbik, Tanja Bergmann, Duncan Blythe, Kashif Rasul, Stefan Schweter and Roland Vollgraf. [FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP](https://www.aclweb.org/anthology/N19-4010/). In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations).
