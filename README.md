@@ -12,13 +12,15 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 28.08.2020: FlairNLP: We are aware of the S3/AWS download problems and are trying to fix them, see [here](https://github.com/flairNLP/flair/issues/1831).
+
 * 18.08.2020: French BERT model, trained on Historic newspapers from Europeana:
   find the model [here](https://huggingface.co/dbmdz/bert-base-french-europeana-cased)
   and the corresponding repository [here](https://github.com/stefan-it/europeana-bert).
 
 ### 📃 Publications
 
-* Stefan Schweter and Luisa März. Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German. Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020). To appear.
+* Stefan Schweter and Luisa März. Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German. In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020). To appear.
 
 * Stefan Schweter and Sajawel Ahmed. [Deep-EOS: General-Purpose Neural Networks for Sentence Boundary Detection](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_41.pdf). In Proceedings of the 15th Conference on Natural Language Processing (KONVENS 2019).
 
