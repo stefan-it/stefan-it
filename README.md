@@ -12,9 +12,9 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
-* 02.09.2020: Slow response time - I'm currently focussing on EACL 2021. Expect great new things 😎
+* 23.09.2020: Flair in version 0.6.1 is [out now](https://github.com/flairNLP/flair/releases/tag/v0.6.1)!
 
-* 28.08.2020: FlairNLP: We are aware of the S3/AWS download problems and are trying to fix them, see [here](https://github.com/flairNLP/flair/issues/1831). The issue was fixed in version *0.6.0.post1* 🤗
+* 02.09.2020: Slow response time - I'm currently focussing on EACL 2021. Expect great new things 😎
 
 * 18.08.2020: French BERT model, trained on Historic newspapers from Europeana:
   find the model [here](https://huggingface.co/dbmdz/bert-base-french-europeana-cased)
