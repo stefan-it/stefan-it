@@ -12,6 +12,9 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 30.09.2020: "German's Next Language Model" together with Branden Chan and Timo Möller was accepted at COLING 2020!
+              Expect new language models for German soon on the Hugging Face model hub 🤗
+
 * 23.09.2020: Flair in version 0.6.1 is [out now](https://github.com/flairNLP/flair/releases/tag/v0.6.1)!
 
 * 02.09.2020: Slow response time - I'm currently focussing on EACL 2021. Expect great new things 😎
