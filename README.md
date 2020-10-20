@@ -27,7 +27,7 @@ Latest news of new language models, PRs and many more!
 
 * Branden Chan, Stefan Schweter and Timo Möller. German's Next Language Model. In Proceedings of the 27th International Conference on Computational Linguistics. To appear.
 
-* Stefan Schweter and Luisa März. Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German. In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020). To appear.
+* Stefan Schweter and Luisa März. Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German. In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020). To appear. [[Preprint](http://www.dei.unipd.it/~ferro/CLEF-WN-Drafts/CLEF2020/paper_173.pdf)].
 
 * Stefan Schweter and Sajawel Ahmed. [Deep-EOS: General-Purpose Neural Networks for Sentence Boundary Detection](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_41.pdf). In Proceedings of the 15th Conference on Natural Language Processing (KONVENS 2019).
 
