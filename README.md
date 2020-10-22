@@ -12,6 +12,10 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 22.10.2020: Preprint of "German's Next Language Model" is now available [here](https://arxiv.org/abs/2010.10906). Models are also available on the [Hugging Face model hub](https://huggingface.co/models?search=deepset%2Fg) 🎉
+
+* 22.10.2020: Our shared task paper [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf) together with @LuisaMaerz is released 🎉
+
 * 30.09.2020: "German's Next Language Model" together with [Branden Chan](https://github.com/brandenchan) and [Timo Möller](https://github.com/Timoeller) was accepted at [COLING 2020](https://coling2020.org/)!
               Expect new language models for German on the Hugging Face model hub soon 🤗
 
@@ -25,9 +29,9 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Publications
 
-* Branden Chan, Stefan Schweter and Timo Möller. German's Next Language Model. In Proceedings of the 27th International Conference on Computational Linguistics. To appear.
+* Branden Chan, Stefan Schweter and Timo Möller. German's Next Language Model. In Proceedings of the 27th International Conference on Computational Linguistics. To appear. [[Preprint](https://arxiv.org/abs/2010.10906)].
 
-* Stefan Schweter and Luisa März. Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German. In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020). To appear. [[Preprint](http://www.dei.unipd.it/~ferro/CLEF-WN-Drafts/CLEF2020/paper_173.pdf)].
+* Stefan Schweter and Luisa März. [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf). In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020).
 
 * Stefan Schweter and Sajawel Ahmed. [Deep-EOS: General-Purpose Neural Networks for Sentence Boundary Detection](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_41.pdf). In Proceedings of the 15th Conference on Natural Language Processing (KONVENS 2019).
 
