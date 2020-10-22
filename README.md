@@ -14,7 +14,7 @@ Latest news of new language models, PRs and many more!
 
 * 22.10.2020: Preprint of "German's Next Language Model" is now available [here](https://arxiv.org/abs/2010.10906). Models are also available on the [Hugging Face model hub](https://huggingface.co/models?search=deepset%2Fg) 🎉
 
-* 22.10.2020: Our shared task paper [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf) together with @LuisaMaerz is released 🎉
+* 22.10.2020: Our shared task paper [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf) together with [Luisa März](https://github.com/LuisaMaerz) is released 🎉
 
 * 30.09.2020: "German's Next Language Model" together with [Branden Chan](https://github.com/brandenchan) and [Timo Möller](https://github.com/Timoeller) was accepted at [COLING 2020](https://coling2020.org/)!
               Expect new language models for German on the Hugging Face model hub soon 🤗
