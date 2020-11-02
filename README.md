@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 02.11.2020: Public release of Italian XXL ELECTRA model. New repo for Italian BERT and ELECTRA models is now available [here](https://github.com/stefan-it/italian-bertelectra) 🎉
+
 * 22.10.2020: Preprint of "German's Next Language Model" is now available [here](https://arxiv.org/abs/2010.10906). Models are also available on the [Hugging Face model hub](https://huggingface.co/models?search=deepset%2Fg) 🎉
 
 * 22.10.2020: Our shared task paper [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf) together with [Luisa März](https://github.com/LuisaMaerz) is released 🎉
