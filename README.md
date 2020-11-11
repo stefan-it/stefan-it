@@ -12,6 +12,10 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 11.11.2020: Public release of Ukrainian ELECTRA model. Repo is now available [here](https://github.com/stefan-it/ukrainian-electra).
+
+* 11.11.2020: New workstation build (RTX 3090 and Ryzen 9 5900X) has completed! Expect a lot of new Flair/Transformers models in near future!
+
 * 02.11.2020: Public release of Italian XXL ELECTRA model. New repo for Italian BERT and ELECTRA models is now available [here](https://github.com/stefan-it/italian-bertelectra) 🎉
 
 * 22.10.2020: Preprint of "German's Next Language Model" is now available [here](https://arxiv.org/abs/2010.10906). Models are also available on the [Hugging Face model hub](https://huggingface.co/models?search=deepset%2Fg) 🎉
