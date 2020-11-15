@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 16.11:2020: Public release of a German GPT-2 model (incl. fine-tuned model on Faust I and II). Repo with more information is available [here](https://github.com/stefan-it/german-gpt2).
+
 * 11.11.2020: Public release of Ukrainian ELECTRA model. Repo is now available [here](https://github.com/stefan-it/ukrainian-electra).
 
 * 11.11.2020: New workstation build (RTX 3090 and Ryzen 9 5900X) has completed! Expect a lot of new Flair/Transformers models in near future!
