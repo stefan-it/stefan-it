@@ -49,6 +49,10 @@ Latest news of new language models, PRs and many more!
 
 * Stefan Schweter and Johannes Baiter. [Towards Robust Named Entity Recognition for Historic German](https://www.aclweb.org/anthology/W19-4312/). In Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP-2019).
 
+### 📃 Publications (currently arXiv-only)
+
+* Stefan Schweter and Alan Akbik. [FLERT: Document-Level Features for Named Entity Recognition](https://arxiv.org/abs/2011.06993).
+
 ### 💬 Contact
 
 Please open an issue in the corresponding repository or tag me (@stefan-it) in
