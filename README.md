@@ -39,7 +39,7 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Publications
 
-* Branden Chan, Stefan Schweter and Timo Möller. German's Next Language Model. In Proceedings of the 27th International Conference on Computational Linguistics. To appear. [[Preprint](https://arxiv.org/abs/2010.10906)].
+* Branden Chan, Stefan Schweter and Timo Möller. [German's Next Language Model](https://www.aclweb.org/anthology/2020.coling-main.598/). In Proceedings of the 28th International Conference on Computational Linguistics.
 
 * Stefan Schweter and Luisa März. [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf). In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020).
 
