@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 28.01.2020: Expect a new German ELECTRA Large model incl. a distilled German Europeana BERT model soon 🤗
+
 * 16.11.2020: Public release of French Europeana BERT and ELECTRA models - see repository [here](https://github.com/stefan-it/europeana-bert).
 
 * 16.11:2020: Public release of a German GPT-2 model (incl. fine-tuned model on Faust I and II). Repo with more information is available [here](https://github.com/stefan-it/german-gpt2).
