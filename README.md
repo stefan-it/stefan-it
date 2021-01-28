@@ -12,7 +12,7 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
-* 28.01.2020: Expect a new German ELECTRA Large model incl. a distilled German Europeana BERT model soon 🤗
+* 28.01.2020: Expect a new German Europeana ELECTRA Large model incl. a distilled German Europeana BERT model soon 🤗
 
 * 16.11.2020: Public release of French Europeana BERT and ELECTRA models - see repository [here](https://github.com/stefan-it/europeana-bert).
 
