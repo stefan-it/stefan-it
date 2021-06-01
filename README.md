@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 03.05.2021: GC4LM: A Colossal (Biased) language model for German was released. Repo with more details [here](https://github.com/stefan-it/gc4lm).
+
 * 27.04.2021: Our paper "Data Centric Domain Adaptation for Historical Text with OCR Errors" was accepted at ICDAR 2021. More details soon!
 
 * 16.03.2021: Turkish model zoo is still growing! Public release of ConvBERTurk - see repo [here](https://github.com/stefan-it/turkish-bert).
