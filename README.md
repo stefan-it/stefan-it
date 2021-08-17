@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 17.08.2021: Release of new re-trained German GPT-2 model - see repo [here](https://github.com/stefan-it/german-gpt2).
+
 * 05.07.2021: Preprint of the ICDAR 2021 paper ["Data Centric Domain Adaptation for Historical Text with OCR Errors"](https://arxiv.org/abs/2107.00927) together with Luisa März, Nina Poerner, Benjamin Roth and Hinrich Schütze is out now!
 
 * 24.06.2021: Turkish Language Model Zoo repo got a new logo from [Merve Noyan](https://twitter.com/mervenoyann), please follow her! Additionally, a new Turkish ELECTRA model was released, that was trained on the Turkish part of multilingual C4 dataset. More details [here](https://github.com/stefan-it/turkish-bert).
