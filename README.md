@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 07.09.2021: Release of new larger German GPT-2 model - see model hub card [here](https://huggingface.co/stefan-it/german-gpt2-larger).
+
 * 17.08.2021: Release of new re-trained German GPT-2 model - see repo [here](https://github.com/stefan-it/german-gpt2).
 
 * 05.07.2021: Preprint of the ICDAR 2021 paper ["Data Centric Domain Adaptation for Historical Text with OCR Errors"](https://arxiv.org/abs/2107.00927) together with Luisa März, Nina Poerner, Benjamin Roth and Hinrich Schütze is out now!
