@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 23.09.2021_ Release of ConvBERTurk (cased and uncased) and ELECTRA (uncased) trained on Turkish part of mC4 corpus - see repo [here](https://github.com/stefan-it/turkish-bert).
+
 * 07.09.2021: Release of new larger German GPT-2 model - see model hub card [here](https://huggingface.co/stefan-it/german-gpt2-larger).
 
 * 17.08.2021: Release of new re-trained German GPT-2 model - see repo [here](https://github.com/stefan-it/german-gpt2).
