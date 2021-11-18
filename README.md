@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 18.11.2021: Release of new multilingual and monolingual Historic Language Models - as preparation for upcoming CLEF-HIPE 2022 - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
+
 * 23.09.2021: Release of ConvBERTurk (cased and uncased) and ELECTRA (uncased) trained on Turkish part of mC4 corpus - see repo [here](https://github.com/stefan-it/turkish-bert).
 
 * 07.09.2021: Release of new larger German GPT-2 model - see model hub card [here](https://huggingface.co/stefan-it/german-gpt2-larger).
