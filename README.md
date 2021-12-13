@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 13.12.2021: Release of Historic Language Model for Dutch (trained on Delpher corpus) - see repo [here](https://github.com/stefan-it/delpher-lm).
+
 * 06.12.2021: Release of smaller multilingual Historic Language Models (ranging from 2-8 layers) - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
 
 * 18.11.2021: Release of new multilingual and monolingual Historic Language Models - as preparation for upcoming CLEF-HIPE 2022 - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
