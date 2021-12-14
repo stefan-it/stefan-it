@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 14.12.2021: New badge: Member of [Hugging Face Supporter](https://github.com/Hugging-Face-Supporter) org now 🎉
+
 * 13.12.2021: Release of Historic Language Model for Dutch (trained on Delpher corpus) - see repo [here](https://github.com/stefan-it/delpher-lm).
 
 * 06.12.2021: Release of smaller multilingual Historic Language Models (ranging from 2-8 layers) - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
