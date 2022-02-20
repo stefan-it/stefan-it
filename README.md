@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 20.02.2022: Check out our new [GermanT5 organization](https://github.com/GermanT5) - expect new T5 models for German soon!
+
 * 14.12.2021: New badge: Member of [Hugging Face Supporter](https://github.com/Hugging-Face-Supporter) org now 🎉
 
 * 13.12.2021: Release of Historic Language Model for Dutch (trained on Delpher corpus) - see repo [here](https://github.com/stefan-it/delpher-lm).
