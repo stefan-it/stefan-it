@@ -69,6 +69,8 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Publications
 
+* Francesco De Toni, Christopher Akiki, Javier de la Rosa, Clémentine Fourrier, Enrique Manjavacas, Stefan Schweter and Daniel Van Strien. [Entities, Dates, and Languages: Zero-Shot on Historical Texts with T0](https://openreview.net/forum?id=BRzIS3GrIbc). Accepted at "Challenges & Perspectives in Creating Large Language Models" Workshop at ACL 2022.
+
 * Branden Chan, Stefan Schweter and Timo Möller. [German's Next Language Model](https://www.aclweb.org/anthology/2020.coling-main.598/). In Proceedings of the 28th International Conference on Computational Linguistics.
 
 * Stefan Schweter and Luisa März. [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German](http://ceur-ws.org/Vol-2696/paper_173.pdf). In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2020).
