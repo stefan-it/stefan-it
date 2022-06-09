@@ -12,6 +12,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 09.06.2022: Preprint of our upcoming HIPE-2022 Working Notes paper is now available here: [hmBERT: Historical Multilingual Language Models for Named Entity Recognition](https://arxiv.org/abs/2205.15575).
+
 * 20.02.2022: Check out our new [GermanT5 organization](https://github.com/GermanT5) - expect new T5 models for German soon!
 
 * 14.12.2021: New badge: Member of [Hugging Face Supporter](https://github.com/Hugging-Face-Supporter) org now 🎉
