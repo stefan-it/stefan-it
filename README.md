@@ -71,6 +71,8 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Publications
 
+* Stefan Schweter, Luisa März, Katharina Schmid and Erion Çano. [hmBERT: Historical Multilingual Language Models for Named Entity Recognition](http://www.dei.unipd.it/~ferro/CLEF-WN-Drafts/CLEF2022/paper-87.pdf). In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2022) (upcoming).
+
 * Francesco De Toni, Christopher Akiki, Javier de la Rosa, Clémentine Fourrier, Enrique Manjavacas, Stefan Schweter and Daniel Van Strien. [Entities, Dates, and Languages: Zero-Shot on Historical Texts with T0](https://openreview.net/forum?id=BRzIS3GrIbc). Accepted at "Challenges & Perspectives in Creating Large Language Models" Workshop at ACL 2022.
 
 * Luisa März, Stefan Schweter, Nina Poerner, Benjamin Roth and Hinrich Schütze. [Data Centric Domain Adaptation for Historical Text with OCR Errors](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_48). In International Conference on Document Analysis and Recognition, ICDAR 2021.
