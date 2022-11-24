@@ -89,6 +89,7 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Preprints
 
+* Part of [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100).
 * Stefan Schweter and Alan Akbik. [FLERT: Document-Level Features for Named Entity Recognition](https://arxiv.org/abs/2011.06993).
 
 ### 💬 Contact
