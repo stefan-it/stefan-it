@@ -9,6 +9,10 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 28.01.2023: Start of new language models trained on the British Library corpus (model size ranges from 110M to 1B!), repository is [here](https://github.com/stefan-it/blbooks-lms).
+
+* 23.01.2023: New German T5 models are released (trained on the the head and middle of GC4 corpus) and are available [here](https://huggingface.co/GermanT5).
+
 * 09.06.2022: Preprint of our upcoming HIPE-2022 Working Notes paper is now available here: [hmBERT: Historical Multilingual Language Models for Named Entity Recognition](https://arxiv.org/abs/2205.15575).
 
 * 20.02.2022: Check out our new [GermanT5 organization](https://github.com/GermanT5) - expect new T5 models for German soon!
