@@ -9,6 +9,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 03.02.2023: New repository for on-going evaluation of German T5 models on the GermEval 2014 NER task is up now! See [here](https://github.com/stefan-it/germeval-ner-t5).
+
 * 28.01.2023: Start of new language models trained on the British Library corpus (model size ranges from 110M to 1B!), repository is [here](https://github.com/stefan-it/blbooks-lms).
 
 * 23.01.2023: New German T5 models are released (trained on the the head and middle of GC4 corpus) and are available [here](https://huggingface.co/GermanT5).
