@@ -9,6 +9,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 05.02.2023: New repository on experiments for XLM-V 🤗 Transformers Integeration, see [here](https://github.com/stefan-it/xlm-v-experiments).
+
 * 03.02.2023: New repository for on-going evaluation of German T5 models on the GermEval 2014 NER task is up now! See [here](https://github.com/stefan-it/germeval-ner-t5).
 
 * 28.01.2023: Start of new language models trained on the British Library corpus (model size ranges from 110M to 1B!), repository is [here](https://github.com/stefan-it/blbooks-lms).
@@ -99,5 +101,3 @@ Latest news of new language models, PRs and many more!
 
 Please open an issue in the corresponding repository or tag me (@stefan-it) in
 issues/prs/commits on GitHub :)
-
-You can also find me on the 🤗 [Discussion forum](https://discuss.huggingface.co/u/stefan-it).
