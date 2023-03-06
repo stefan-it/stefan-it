@@ -9,6 +9,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 06.03.2023: Updated Ukrainian ELECTRA repository, see [here](https://github.com/stefan-it/ukrainian-electra).
+
 * 05.02.2023: New repository on experiments for XLM-V 🤗 Transformers Integeration, see [here](https://github.com/stefan-it/xlm-v-experiments).
 
 * 03.02.2023: New repository for on-going evaluation of German T5 models on the GermEval 2014 NER task is up now! See [here](https://github.com/stefan-it/germeval-ner-t5).
