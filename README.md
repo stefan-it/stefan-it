@@ -9,6 +9,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 25.05.2023: New project: Historic Multilingual and Monolingual ELECTRA Models is released [here](https://github.com/stefan-it/hmELECTRA).
+
 * 25.05.2023: Several ByT5 Historic Language Models are released under [hmByT5 Preliminary](https://huggingface.co/hmbyt5-preliminary) and [hmByT5](https://huggingface.co/hmbyt5) are released on the Hugging Face Model Hub.
               More information can be found [in this repository](https://github.com/stefan-it/hmByT5).
 
