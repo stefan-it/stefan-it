@@ -9,6 +9,9 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 25.05.2023: Several ByT5 Historic Language Models are released under [hmByT5 Preliminary](https://huggingface.co/hmbyt5-preliminary) and [hmByT5](https://huggingface.co/hmbyt5) are released on the Hugging Face Model Hub.
+              More information can be found [in this repository](https://github.com/stefan-it/hmByT5).
+
 * 06.03.2023: Updated Ukrainian ELECTRA repository, see [here](https://github.com/stefan-it/ukrainian-electra).
 
 * 05.02.2023: New repository on experiments for XLM-V 🤗 Transformers Integeration, see [here](https://github.com/stefan-it/xlm-v-experiments).
