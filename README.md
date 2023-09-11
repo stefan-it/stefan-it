@@ -1,4 +1,4 @@
-[![🤗](https://raw.githubusercontent.com/stefan-it/stefan-it/master/profile_header_new_setup_07032023.jpg "🤗")](https://schweter.ml/)
+[![🤗](https://raw.githubusercontent.com/stefan-it/stefan-it/master/profile_header_12092023.jpg "🤗")](https://schweter.ml/)
 
 ### 👋 Hi there
 
