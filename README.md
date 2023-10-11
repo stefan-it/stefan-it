@@ -11,9 +11,9 @@ Latest news of new language models, PRs and many more!
 
 * 11.10.2023: New launch of hmBench project: it benchmarks Historical Multilingual Language Models such as [hmBERT](https://huggingface.co/hmbert), [hmTEAMS](https://huggingface.co/hmteams) and [hmByT5](https://huggingface.co/hmbyt5), see [here](https://github.com/stefan-it/hmBench).
 
-* 25.05.2023: New project: Historic Multilingual and Monolingual ELECTRA Models is released [here](https://github.com/stefan-it/hmELECTRA).
+* 25.05.2023: New project: Historical Multilingual and Monolingual ELECTRA Models is released [here](https://github.com/stefan-it/hmELECTRA).
 
-* 25.05.2023: Several ByT5 Historic Language Models are released under [hmByT5 Preliminary](https://huggingface.co/hmbyt5-preliminary) and [hmByT5](https://huggingface.co/hmbyt5) are released on the Hugging Face Model Hub.
+* 25.05.2023: Several ByT5 Historical Language Models are released under [hmByT5 Preliminary](https://huggingface.co/hmbyt5-preliminary) and [hmByT5](https://huggingface.co/hmbyt5) are released on the Hugging Face Model Hub.
               More information can be found [in this repository](https://github.com/stefan-it/hmByT5).
 
 * 06.03.2023: Updated Ukrainian ELECTRA repository, see [here](https://github.com/stefan-it/ukrainian-electra).
@@ -32,11 +32,11 @@ Latest news of new language models, PRs and many more!
 
 * 14.12.2021: New badge: Member of [Hugging Face Supporter](https://github.com/Hugging-Face-Supporter) org now 🎉
 
-* 13.12.2021: Release of Historic Language Model for Dutch (trained on Delpher corpus) - see repo [here](https://github.com/stefan-it/delpher-lm).
+* 13.12.2021: Release of Historical Language Model for Dutch (trained on Delpher corpus) - see repo [here](https://github.com/stefan-it/delpher-lm).
 
-* 06.12.2021: Release of smaller multilingual Historic Language Models (ranging from 2-8 layers) - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
+* 06.12.2021: Release of smaller multilingual Historical Language Models (ranging from 2-8 layers) - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
 
-* 18.11.2021: Release of new multilingual and monolingual Historic Language Models - as preparation for upcoming CLEF-HIPE 2022 - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
+* 18.11.2021: Release of new multilingual and monolingual Historical Language Models - as preparation for upcoming CLEF-HIPE 2022 - see repo [here](https://github.com/stefan-it/clef-hipe/blob/main/hlms.md).
 
 * 23.09.2021: Release of ConvBERTurk (cased and uncased) and ELECTRA (uncased) trained on Turkish part of mC4 corpus - see repo [here](https://github.com/stefan-it/turkish-bert).
 
@@ -79,7 +79,7 @@ Latest news of new language models, PRs and many more!
 
 * 02.09.2020: Slow response time - I'm currently focussing on EACL 2021. Expect great new things 😎
 
-* 18.08.2020: French BERT model, trained on Historic newspapers from Europeana:
+* 18.08.2020: French BERT model, trained on Historical newspapers from Europeana:
   find the model [here](https://huggingface.co/dbmdz/bert-base-french-europeana-cased)
   and the corresponding repository [here](https://github.com/stefan-it/europeana-bert).
 
