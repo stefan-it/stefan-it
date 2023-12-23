@@ -87,6 +87,8 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Publications
 
+* Lukas Thoma, Ivonne Weyers, Erion Çano, Stefan Schweter, Jutta L Mueller and Benjamin Roth. [CogMemLM: Human-Like Memory Mechanisms Improve Performance and Cognitive Plausibility of LLMs](https://aclanthology.org/2023.conll-babylm.15/). In Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning (CoNLL 2023).
+
 * Stefan Schweter, Luisa März, Katharina Schmid and Erion Çano. [hmBERT: Historical Multilingual Language Models for Named Entity Recognition](http://www.dei.unipd.it/~ferro/CLEF-WN-Drafts/CLEF2022/paper-87.pdf). In Experimental IR Meets Multilinguality, Multimodality, and Interaction - Proceedings of the Eleventh International Conference of the CLEF Association (CLEF 2022).
 
 * Francesco De Toni, Christopher Akiki, Javier de la Rosa, Clémentine Fourrier, Enrique Manjavacas, Stefan Schweter and Daniel Van Strien. [Entities, Dates, and Languages: Zero-Shot on Historical Texts with T0](https://openreview.net/forum?id=BRzIS3GrIbc). Accepted at "Challenges & Perspectives in Creating Large Language Models" Workshop at ACL 2022.
