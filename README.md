@@ -9,6 +9,8 @@ library and love contributing to [🤗 Transformers](https://github.com/huggingf
 
 Latest news of new language models, PRs and many more!
 
+* 23.12.2023: New project: NER Datasets for Historical German (HisGermaNER) is out and available on the Model Hub [here](https://huggingface.co/datasets/stefan-it/HisGermaNER).
+
 * 11.10.2023: New launch of hmBench project: it benchmarks Historical Multilingual Language Models such as [hmBERT](https://huggingface.co/hmbert), [hmTEAMS](https://huggingface.co/hmteams) and [hmByT5](https://huggingface.co/hmbyt5), see [here](https://github.com/stefan-it/hmBench).
 
 * 25.05.2023: New project: Historical Multilingual and Monolingual ELECTRA Models is released [here](https://github.com/stefan-it/hmELECTRA).
