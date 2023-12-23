@@ -1,9 +1,9 @@
-[![🤗](https://raw.githubusercontent.com/stefan-it/stefan-it/master/profile_header_12092023.jpg "🤗")](https://schweter.ml/)
+[![Bvarian Oberland](https://raw.githubusercontent.com/stefan-it/stefan-it/master/profile_header_12092023.jpg "Bavarian Oberland")](https://schweter.ml/)
 
 ### 👋 Hi there
 
 I'm currently working on the awesome [Flair](https://github.com/flairNLP/flair)
-library and love contributing to [🤗 Transformers](https://github.com/huggingface/transformers).
+library and love contributing to various open source projects.
 
 ### 📰 Latest news
 
