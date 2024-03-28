@@ -9,6 +9,8 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
+* 28.03.2024: New project: NER models on the recently released [CO-Fun](https://arxiv.org/abs/2403.15322) NER dataset. Repo is [here](https://github.com/stefan-it/co-funer) with a lot of fine-tuned models on the [Model Hub](https://huggingface.co/models?search=flair-co-funer).
+
 * 23.12.2023: New project: NER Datasets for Historical German (HisGermaNER) is out and available on the Model Hub [here](https://huggingface.co/datasets/stefan-it/HisGermaNER).
 
 * 11.10.2023: New launch of hmBench project: it benchmarks Historical Multilingual Language Models such as [hmBERT](https://huggingface.co/hmbert), [hmTEAMS](https://huggingface.co/hmteams) and [hmByT5](https://huggingface.co/hmbyt5), see [here](https://github.com/stefan-it/hmBench).
