@@ -114,5 +114,5 @@ Latest news of new language models, PRs and many more!
 
 ### 💬 Contact
 
-Please open an issue in the corresponding repository or tag me (@stefan-it) in
-issues/prs/commits on GitHub :)
+Please open an issue in the corresponding repository, tag me (@stefan-it) in
+issues/prs/commits on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/stefan-it/) :)
