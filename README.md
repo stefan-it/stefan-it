@@ -9,6 +9,8 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
+* 02.10.2024: Zeitungs-LM, a new language model trained on Historical German Newspapers is [out now](https://huggingface.co/stefan-it/zeitungs-lm-v1)!
+
 * 04.07.2024: Flair fine-tuned NER models on the awesome [CleanCoNLL dataset](https://github.com/flairNLP/CleanCoNLL) are now available on the [Model Hub](https://huggingface.co/collections/stefan-it/fine-tuned-cleanconll-models-6685d2e4852db86b9ca90dba).
 
 * 28.03.2024: New project: NER models on the recently released [CO-Fun](https://arxiv.org/abs/2403.15322) NER dataset. Repo is [here](https://github.com/stefan-it/co-funer) with a lot of fine-tuned models on the [Model Hub](https://huggingface.co/models?search=flair-co-funer).
