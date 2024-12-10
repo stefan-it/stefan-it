@@ -9,6 +9,8 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
+* 09.12.2024: Public announcement of the [TensorFlow Model Garden LMs](https://github.com/stefan-it/model-garden-lms), including first FineWeb-LM releases on the [Model Hub](https://huggingface.co/collections/stefan-it/fineweb-lms-67561ed9d83c390221aaa2d4).
+
 * 02.10.2024: Zeitungs-LM, a new language model trained on Historical German Newspapers is [out now](https://huggingface.co/stefan-it/zeitungs-lm-v1)!
 
 * 04.07.2024: Flair fine-tuned NER models on the awesome [CleanCoNLL dataset](https://github.com/flairNLP/CleanCoNLL) are now available on the [Model Hub](https://huggingface.co/collections/stefan-it/fine-tuned-cleanconll-models-6685d2e4852db86b9ca90dba).
