@@ -9,6 +9,8 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
+* 21.12.2024: The [Turkish Model Zoo](https://github.com/stefan-it/turkish-bert) got new evaluations - performed with the awesome Flair library - see [here](https://github.com/stefan-it/turkish-bert).
+
 * 09.12.2024: Public announcement of the [TensorFlow Model Garden LMs](https://github.com/stefan-it/model-garden-lms), including first FineWeb-LM releases on the [Model Hub](https://huggingface.co/collections/stefan-it/fineweb-lms-67561ed9d83c390221aaa2d4).
 
 * 02.10.2024: Zeitungs-LM, a new language model trained on Historical German Newspapers is [out now](https://huggingface.co/stefan-it/zeitungs-lm-v1)!
