@@ -1,4 +1,4 @@
-[![Bvarian Oberland](https://raw.githubusercontent.com/stefan-it/stefan-it/master/profile_header_27122024.jpg "Bavarian Oberland")](https://schweter.ml/)
+[![Bvarian Oberland](https://raw.githubusercontent.com/stefan-it/stefan-it/master/profile_header_12052025.jpg "Bavarian Oberland")](https://schweter.ml/)
 
 ### 👋 Hi there
 
