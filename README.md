@@ -9,6 +9,8 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
+* 08.07.2025: New project started: the [Bavarian NLP](https://huggingface.co/bavarian-nlp) organization on the Model Hub with lot of new resources for Bavarian.
+
 * 03.03.2025: BERT5urk, a new T5 language model for Turkish is [out now](https://huggingface.co/stefan-it/bert5urk)!
 
 * 21.12.2024: The [Turkish Model Zoo](https://github.com/stefan-it/turkish-bert) got new evaluations - performed with the awesome Flair library - see [here](https://github.com/stefan-it/turkish-bert).
