@@ -121,6 +121,7 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Preprints
 
+* Michael Hoffmann, Jophin John, Stefan Schweter, Gokul Ramakrishnan, Hoi-Fong Mak, Alice Zhang, Dmitry Gaynullin and Nicolay J. Hammer. [Llama-GENBA-10B: A Trilingual Large Language Model for German, English and Bavarian](https://arxiv.org/abs/2509.05668).
 * Part of [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100).
 * Stefan Schweter and Alan Akbik. [FLERT: Document-Level Features for Named Entity Recognition](https://arxiv.org/abs/2011.06993).
 
