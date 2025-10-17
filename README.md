@@ -9,6 +9,8 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
+* 17.10.2025: Checkout out our new [German Commons](https://arxiv.org/abs/2510.13996) paper!
+
 * 18.09.2025: New project: Baivaria - a strong Bavarian encoder-only model is released! Available on the Model Hub [here](https://huggingface.co/bavarian-nlp/baivaria-v1) and more details can be found in this [GitHub repo](https://github.com/stefan-it/baivaria)!
 
 * 09.09.2025: Check out our new [Llama-GENBA-10B: A Trilingual Large Language Model for German, English and Bavarian](https://arxiv.org/abs/2509.05668) paper!
@@ -125,6 +127,7 @@ Latest news of new language models, PRs and many more!
 
 ### 📃 Preprints
 
+* Lukas Gienapp, Christopher Schröder, Stefan Schweter, Christopher Akiki, Ferdinand Schlatt, Arden Zimmermann, Phillipe Genêt and Martin Potthast. [The German Commons - 154 Billion Tokens of Openly Licensed Text for German Language Models](https://arxiv.org/abs/2510.13996).
 * Michael Hoffmann, Jophin John, Stefan Schweter, Gokul Ramakrishnan, Hoi-Fong Mak, Alice Zhang, Dmitry Gaynullin and Nicolay J. Hammer. [Llama-GENBA-10B: A Trilingual Large Language Model for German, English and Bavarian](https://arxiv.org/abs/2509.05668).
 * Part of [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100).
 * Stefan Schweter and Alan Akbik. [FLERT: Document-Level Features for Named Entity Recognition](https://arxiv.org/abs/2011.06993).
