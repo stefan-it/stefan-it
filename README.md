@@ -9,7 +9,9 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
-* 17.10.2025: Checkout out our new [German Commons](https://arxiv.org/abs/2510.13996) paper!
+* 28.10.2025: I've started a new project: the first [German nanochat model](https://github.com/stefan-it/nanochat-german)!
+
+* 17.10.2025: Check out our new [German Commons](https://arxiv.org/abs/2510.13996) paper!
 
 * 18.09.2025: New project: Baivaria - a strong Bavarian encoder-only model is released! Available on the Model Hub [here](https://huggingface.co/bavarian-nlp/baivaria-v1) and more details can be found in this [GitHub repo](https://github.com/stefan-it/baivaria)!
 
