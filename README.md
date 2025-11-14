@@ -9,6 +9,8 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
+* 15.11.2025: My upcoming project "German LLMs trained with MaxText on TPUs" just landed on [GitHub](https://github.com/stefan-it/german-maxtext-llms)!
+
 * 28.10.2025: I've started a new project: the first [German nanochat model](https://github.com/stefan-it/nanochat-german)!
 
 * 17.10.2025: Check out our new [German Commons](https://arxiv.org/abs/2510.13996) paper!
