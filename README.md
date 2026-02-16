@@ -9,7 +9,7 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
-* 15.11.2025: My upcoming project "German LLMs trained with MaxText on TPUs" just landed on [GitHub](https://github.com/stefan-it/german-maxtext-llms)!
+* 16.02:2026: GOLMo - Small German OLMo models are in the making, stay tuned!
 
 * 28.10.2025: I've started a new project: the first [German nanochat model](https://github.com/stefan-it/nanochat-german)!
 
@@ -110,6 +110,8 @@ Latest news of new language models, PRs and many more!
   and the corresponding repository [here](https://github.com/stefan-it/europeana-bert).
 
 ### 📃 Publications
+
+* Raphael Schmitt and Stefan Schweter. [SindBERT, the Sailor: Charting the Seas of Turkish NLP](https://arxiv.org/abs/2510.21364) was accepted at [SIGTURK 2026 Workshop](https://sigturk.github.io/workshop2026-accepted-papers/).
 
 * Lukas Thoma, Ivonne Weyers, Erion Çano, Stefan Schweter, Jutta L Mueller and Benjamin Roth. [CogMemLM: Human-Like Memory Mechanisms Improve Performance and Cognitive Plausibility of LLMs](https://aclanthology.org/2023.conll-babylm.15/). In Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning (CoNLL 2023).
 
