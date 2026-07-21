@@ -9,7 +9,7 @@ library and love contributing to various open source projects.
 
 Latest news of new language models, PRs and many more!
 
-* 16.02:2026: GOLMo - Small German OLMo models are in the making, stay tuned!
+* 21.07:2026: Expect some new upcoming xLSTM models very soon! 
 
 * 28.10.2025: I've started a new project: the first [German nanochat model](https://github.com/stefan-it/nanochat-german)!
 
