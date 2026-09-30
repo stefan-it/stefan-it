@@ -2,14 +2,14 @@
 
 ### 👋 Hi there
 
-I'm currently working on the awesome [Flair](https://github.com/flairNLP/flair)
-library and love contributing to various open source projects.
+I'm currently working on the awesome [Flair](https://github.com/flairNLP/flair) and [Flukes](https://github.com/flairNLP/flukes)
+libraries and love contributing to various open source projects.
 
 ### 📰 Latest news
 
 Latest news of new language models, PRs and many more!
 
-* 21.07:2026: Expect some new upcoming xLSTM models very soon! 
+* 30.09:2026: Expect some new upcoming xLSTM models very soon! 
 
 * 28.10.2025: I've started a new project: the first [German nanochat model](https://github.com/stefan-it/nanochat-german)!
 
